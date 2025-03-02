@@ -1,0 +1,21 @@
+{
+    "token": "",
+    "prefix": ",",
+    "server_name": "",
+    "server_icon": "",
+    "channels_name": "",
+    "webhook_name": "",
+    "roles_name": "",
+    "spam_message": "",
+    "raid_cooldown": 0,
+    "restr_guilds": [
+    ],
+    "premium_users": [
+    ],
+    "embed_config": {
+        "title": "",
+        "description": "",
+        "image_url": "",
+        "url": ""
+    }
+}
